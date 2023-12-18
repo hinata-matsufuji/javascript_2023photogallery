@@ -29,5 +29,11 @@ h1 {
 
 footer {
   text-align: center;
-  color: #EEE;
+  color: #ffffff;
+}
+
+.scroll img{
+  display: block;
+  margin: auto;
+  padding-top: 130px;
 }
